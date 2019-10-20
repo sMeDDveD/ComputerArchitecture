@@ -1,2 +1,5 @@
 # ComputerArchitecture
-Practice
+Practice:
+--MPI
+--OpenCL
+--OpenMP
