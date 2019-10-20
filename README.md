@@ -1,5 +1,5 @@
 # ComputerArchitecture
 Practice:
---MPI
---OpenCL
---OpenMP
+- MPI
+- OpenCL
+- OpenMP
