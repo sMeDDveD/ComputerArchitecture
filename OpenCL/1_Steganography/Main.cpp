@@ -106,6 +106,7 @@ private:
 
 		auto queue = cl::CommandQueue(context, device);
 		queue.enqueueNDRangeKernel(kernel, cl::NullRange, cl::NDRange(maxSizeOfStr));
+		queue.finish();
 
 		ReadFromBuffer(queue, decrypted, maxSizeOfStr, decryptedBuffer);
 
