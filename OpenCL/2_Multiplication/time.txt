@@ -1,0 +1,38 @@
+Times(VectorMultiply, 3, 3, 3): 0.01155 ms
+Times(VectorMultiply, 3, 3, 3): 0.01171 ms
+Times(ScalarMultiply, 3, 3, 3): 0.00902 ms
+Times(VectorMultiply, 16, 16, 16): 0.01181 ms
+Times(VectorMultiply, 16, 16, 16): 0.01152 ms
+Times(VectorMultiply, 3, 3, 3): 0.01165 ms
+Times(VectorMultiply, 3, 3, 3): 0.01155 ms
+Times(VectorMultiply, 500, 500, 500): 43.70301 ms
+Times(VectorMultiply, 500, 500, 500): 43.69795 ms
+Times(Vector8Multiply, 500, 500, 500): 41.65203 ms
+Times(Vector8Multiply, 500, 500, 500): 40.54550 ms
+Times(V4M, 500, 500, 500): 42.86262 ms
+T(V4M-3-3-3): 0.01158 ms
+T(V4M-3-3-3): 0.00902 ms
+T(ScalarMultiply-3-3-3): 0.00915 ms
+T(ScalarMultiply-3-3-3): 0.00902 ms
+T(ScalarMultiply-3-3-3): 0.00893 ms
+T(ScalarMultiply-3-3-3): 0.00928 ms
+T(ScalarMultiply-3-3-3): 0.00906 ms
+T(ScalarMultiply-3-3-3): 0.00902 ms
+T(ScalarMultiply-3-3-3): 0.00906 ms
+T(ScalarMultiply-3-3-3): 0.00922 ms
+T(ScalarMultiply-3-3-3): 0.00941 ms
+T(ScalarMultiply-3-3-3): 0.00902 ms
+T(ScalarMultiply-3-3-3): 0.00931 ms
+T(SM-3-3-3): 0.009184 ms
+T(V4M-3-3-3): 0.008992 ms
+T(V4M-3-3-3): 0.006333 ms
+T(V4M-3-3-3): 0.006583 ms
+T(V4M-3-3-3): 0.011916 ms
+T(V4M-3-3-3): 0.00675 ms
+T(V4M-3-3-3): 0.006583 millis
+T(V4M-3-3-3): 0.006416 millis
+T(V4M-3-3-3): 0.006666 millis
+T(V4M-3-3-3): 0.006334 millis
+T(V4M-3-3-3): 0.006333 millis
+T(V4M-4-4-4): 0.007333 millis
+T(V4M-4-4-4): 0.006833 millis

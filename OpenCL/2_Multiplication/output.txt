@@ -1,0 +1,19 @@
+Preferred vector width: 16
+First matrix:
+1 1 1 1 
+-1 0 1 1 
+-1 0 1 0 
+-1 0 1 1 
+
+Second matrix:
+-1 -1 0 -1 
+0 0 1 1 
+-1 0 1 1 
+-1 -1 0 -1 
+
+Answer matrix
+-3 -2 2 0 
+-1 0 1 1 
+0 1 1 2 
+-1 0 1 1 
+
